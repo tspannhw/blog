@@ -4,7 +4,9 @@
 * Real-time Analytics / Real-time Streaming
 * Streaming Data Applications in SQL
 * Event Driven Architecture (EDA)
-* Microservices with Pulsar
+* Microservices with Pulsar - Quarkus, Spring
+* Spark with Pulsar
+* Datalake Houses with Pulsar
 * Mobile Applications with Pulsar
 * Sources and Sinks with Pulsar
 * IoT Applications
