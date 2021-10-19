@@ -13,6 +13,7 @@
 * Building Applications with Python
 * Building Applications with Golang
 * Building Applications with NodeJS
+* Streaming ETL
 
 ### Apps
 
