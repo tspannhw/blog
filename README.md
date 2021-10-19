@@ -29,3 +29,5 @@ https://github.com/tspannhw/FLiP-SQL
 * https://www.pulsardeveloper.com/
 * https://dev.to/tspannhw
 * https://linktr.ee/tspannhw
+* https://medium.com/@tspann
+* https://streamnative.io/blog/
