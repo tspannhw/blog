@@ -14,6 +14,7 @@
 * Building Applications with Golang
 * Building Applications with NodeJS
 * Streaming ETL
+* Machine Learning with Pulsar
 
 ### Apps
 
