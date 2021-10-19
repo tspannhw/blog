@@ -22,3 +22,10 @@ https://github.com/tspannhw/FLiP-CloudIngest
 Fast Applications with Pulsar and Flink SQL
 https://github.com/tspannhw/FLiP-SQL
 
+### Locations
+
+* https://dzone.com/users/297029/bunkertor.html
+* https://www.datainmotion.dev/
+* https://www.pulsardeveloper.com/
+* https://dev.to/tspannhw
+* https://linktr.ee/tspannhw
