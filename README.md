@@ -10,6 +10,9 @@
 * Mobile Applications with Pulsar
 * Sources and Sinks with Pulsar
 * IoT Applications
+* Building Applications with Python
+* Building Applications with Golang
+* Building Applications with NodeJS
 
 ### Apps
 
