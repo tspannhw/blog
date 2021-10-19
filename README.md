@@ -1,7 +1,4 @@
-## blog
-
-Blog
-
+## Blog
 
 * CDC - Change Data Capture
 * Real-time Analytics / Real-time Streaming
@@ -11,3 +8,15 @@ Blog
 * Mobile Applications with Pulsar
 * Sources and Sinks with Pulsar
 * IoT Applications
+
+### Apps
+
+Building Web Apps with Websockets and Pulsar
+https://github.com/tspannhw/FLiP-Mobile
+
+Ingesting Cloud Data with Pulsar
+https://github.com/tspannhw/FLiP-CloudIngest
+
+Fast Applications with Pulsar and Flink SQL
+https://github.com/tspannhw/FLiP-SQL
+
