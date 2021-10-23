@@ -24,6 +24,9 @@
 * CODELESS PIPELINES WITH KAFKA AND PULSAR
 * BUILD A REAL_TIME PIPELINE NOW WITH PULSAR FUNCTIONS
 * FLIP STACK FOR CLOUD DATA LAKES
+* Pulsar CLI, Pulsarctl https://streamnative.io/blog/tech/2019-11-26-introduction-pulsarctl/
+* avro schemas https://github.com/streamnative/examples/blob/master/clients/schema/src/main/java/io/streamnative/examples/schema/avro/AvroSchemaProducerExample.java
+* 
 
 ### Apps
 
